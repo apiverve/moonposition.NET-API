@@ -100,9 +100,9 @@ if(response.error != null) {
       "longitude": -122.4194
     },
     "moon": {
-      "altitude": 0.22291946953712225,
-      "azimuth": 0.70653119959885435,
-      "distance": 391370.47850964777
+      "altitude": -0.42215977917143888,
+      "azimuth": -2.4851302890488944,
+      "distance": 398210.59412740468
     }
   },
   "code": 200
